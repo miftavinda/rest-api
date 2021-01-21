@@ -1,0 +1,30 @@
+[
+{ 
+    "nama" : "Mifta",
+    "umur" : 23,
+    "nim" : "43116117",
+    "lulus" : false,
+    "hobby" : [
+        "makeup",
+        "berenang"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Sarono",
+        "pembimbing2" : "Ari"
+    }
+},
+{ 
+    "nama" : "Kristi",
+    "umur" : 25,
+    "nim" : "43116116",
+    "lulus" : false,
+    "hobby" : [
+        "makan",
+        "rebahan"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Slawi",
+        "pembimbing2" : "Sidiq"
+    }
+}
+]
